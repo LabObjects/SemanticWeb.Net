@@ -1,0 +1,12 @@
+C:\code\SemanticWeb.Net\src\SolidClient\bin\Debug\net8.0\SolidClient.deps.json
+C:\code\SemanticWeb.Net\src\SolidClient\bin\Debug\net8.0\SolidClient.dll
+C:\code\SemanticWeb.Net\src\SolidClient\bin\Debug\net8.0\SolidClient.pdb
+C:\code\SemanticWeb.Net\src\SolidClient\obj\Debug\net8.0\SolidClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\SemanticWeb.Net\src\SolidClient\obj\Debug\net8.0\SolidClient.AssemblyInfoInputs.cache
+C:\code\SemanticWeb.Net\src\SolidClient\obj\Debug\net8.0\SolidClient.AssemblyInfo.cs
+C:\code\SemanticWeb.Net\src\SolidClient\obj\Debug\net8.0\SolidClient.csproj.CoreCompileInputs.cache
+C:\code\SemanticWeb.Net\src\SolidClient\obj\Debug\net8.0\SolidClient.sourcelink.json
+C:\code\SemanticWeb.Net\src\SolidClient\obj\Debug\net8.0\SolidClient.dll
+C:\code\SemanticWeb.Net\src\SolidClient\obj\Debug\net8.0\refint\SolidClient.dll
+C:\code\SemanticWeb.Net\src\SolidClient\obj\Debug\net8.0\SolidClient.pdb
+C:\code\SemanticWeb.Net\src\SolidClient\obj\Debug\net8.0\ref\SolidClient.dll

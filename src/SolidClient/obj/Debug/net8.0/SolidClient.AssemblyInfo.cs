@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolidClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de49f7270a5985a5c157bd8ee3eb28f8ff0f1769")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolidClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolidClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

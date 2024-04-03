@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8fj0MVtiZ4kLD/l84XtS4vDxbJiTydCDzEPvvVRyaQwlrhmSDp8dnQrPce1Uek2l/kZp59WyVno/xZSWhLdGGw==",
+  "dgSpecHash": "20JoErPmRi4Zg248r7wKyQX8e+6zvvx3yrYLSyQ4UnZDWKcCv7F9VU7Iza+pyVtGcEzVlm8kJODv88Tc5zaioQ==",
   "success": true,
-  "projectFilePath": "C:\\code\\scb\\src\\SolidClient\\SolidClient.csproj",
+  "projectFilePath": "C:\\code\\SemanticWeb.Net\\src\\SolidClient\\SolidClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

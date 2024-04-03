@@ -1,0 +1,12 @@
+C:\code\SemanticWeb.Net\src\SemanticWeb\bin\Debug\net8.0\SemanticWeb.deps.json
+C:\code\SemanticWeb.Net\src\SemanticWeb\bin\Debug\net8.0\SemanticWeb.dll
+C:\code\SemanticWeb.Net\src\SemanticWeb\bin\Debug\net8.0\SemanticWeb.pdb
+C:\code\SemanticWeb.Net\src\SemanticWeb\obj\Debug\net8.0\SemanticWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\SemanticWeb.Net\src\SemanticWeb\obj\Debug\net8.0\SemanticWeb.AssemblyInfoInputs.cache
+C:\code\SemanticWeb.Net\src\SemanticWeb\obj\Debug\net8.0\SemanticWeb.AssemblyInfo.cs
+C:\code\SemanticWeb.Net\src\SemanticWeb\obj\Debug\net8.0\SemanticWeb.csproj.CoreCompileInputs.cache
+C:\code\SemanticWeb.Net\src\SemanticWeb\obj\Debug\net8.0\SemanticWeb.sourcelink.json
+C:\code\SemanticWeb.Net\src\SemanticWeb\obj\Debug\net8.0\SemanticWeb.dll
+C:\code\SemanticWeb.Net\src\SemanticWeb\obj\Debug\net8.0\refint\SemanticWeb.dll
+C:\code\SemanticWeb.Net\src\SemanticWeb\obj\Debug\net8.0\SemanticWeb.pdb
+C:\code\SemanticWeb.Net\src\SemanticWeb\obj\Debug\net8.0\ref\SemanticWeb.dll
