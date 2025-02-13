@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\code\\SemanticWeb.Net\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{00657C4B-672C-4E8E-9FF7-26ABD526219C}|src\\SemanticWeb\\SemanticWeb.csproj|c:\\code\\semanticweb.net\\src\\semanticweb\\rdfnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00657C4B-672C-4E8E-9FF7-26ABD526219C}|src\\SemanticWeb\\SemanticWeb.csproj|solutionrelative:src\\semanticweb\\rdfnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\dev\\SemanticWeb.Net\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RdfNode.cs",
-              "DocumentMoniker": "C:\\code\\SemanticWeb.Net\\src\\SemanticWeb\\RdfNode.cs",
-              "RelativeDocumentMoniker": "src\\SemanticWeb\\RdfNode.cs",
-              "ToolTip": "C:\\code\\SemanticWeb.Net\\src\\SemanticWeb\\RdfNode.cs",
-              "RelativeToolTip": "src\\SemanticWeb\\RdfNode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T16:01:27.065Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

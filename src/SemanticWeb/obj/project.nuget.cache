@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "neXqIBaqOD+9DxxW/TYXfNqRHPUjFjwkZKidjcXXLgpuT42tu9XJJY19fLf3UhXQjnTxtEsf/4zbAzd29fBBdw==",
+  "dgSpecHash": "JXpzpmsh6eQ=",
   "success": true,
-  "projectFilePath": "C:\\code\\SemanticWeb.Net\\src\\SemanticWeb\\SemanticWeb.csproj",
+  "projectFilePath": "C:\\dev\\SemanticWeb.Net\\src\\SemanticWeb\\SemanticWeb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
